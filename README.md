@@ -1,2 +1,2 @@
 # ExampleSequelize
-Exemplo de utilização do ORM Sequelize.
+Example of using the ORM Sequelize.
